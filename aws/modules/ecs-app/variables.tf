@@ -1,0 +1,11 @@
+variable "region" {}
+variable "app_name" {}
+variable "component" {}
+variable "image_tag" {}
+variable "priority" {}
+variable "path_rule" {}
+variable "desired_count" {}
+variable "port" {}
+variable "environment_variables" {}
+variable "cpu" {}
+variable "memory" {}
